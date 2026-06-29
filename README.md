@@ -4,7 +4,7 @@ A modern, responsive, and recruiter-focused personal portfolio website showcasin
 
 ## 🌐 Live Demo
 
-🔗 Coming Soon
+🔗 https://portfolio-k6qgyg2mw-chirag2006katariya-5854s-projects.vercel.app/#home
 
 ---
 
